@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649374032 source:d:\meus docs\documents\001 - alexandre f\estudos\faculdade 2021 - univali\how\calculator\calculator\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
